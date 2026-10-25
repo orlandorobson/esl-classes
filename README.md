@@ -22,10 +22,10 @@ The browser print action was exercised, but its native modal blocked further ins
 
 ## Publishing
 
-Intended repository: `orlandorobson/esl-classes`, branch `main`.
+Repository: `orlandorobson/esl-classes`, branch `main`.
 
-Enable GitHub Pages using **Deploy from a branch**, `main`, `/ (root)`.
-The project finder will be at:
+GitHub Pages is enabled using **Deploy from a branch**, `main`, `/ (root)`.
+Project finder URL:
 `https://orlandorobson.github.io/esl-classes/module-e/project-finder/`
 
-The repository root has a small materials index and `.nojekyll` for plain static hosting. No build step is required. Repository creation, push and live verification are pending authenticated access.
+The repository root has a small materials index and `.nojekyll` for plain static hosting. No build step is required. The repository is connected to this local checkout, and `main` is published through GitHub Pages.
